@@ -214,3 +214,5 @@ qpcr.coda <- coda.samples(qpcr.call,
                           ni)
 
 summary(qpcr.coda)
+
+save(qpcr.coda)
